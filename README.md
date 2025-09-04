@@ -1,6 +1,6 @@
 # Learning Web Development
-[] HTML
-[] CSS
-[] JavaScript
-[] TypeScript
-[] React
+- [] HTML
+- [] CSS
+- [] JavaScript
+- [] TypeScript
+- [] React
